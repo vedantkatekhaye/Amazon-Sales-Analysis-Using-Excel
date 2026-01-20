@@ -1,4 +1,4 @@
-📊 Excel Dashboard — E-commerce Sales Analysis
+📊 Excel Dashboard - E-commerce Sales Analysis
 Created an interactive Sales Dashboard in Excel to uncover data-driven insights on performance and customer behaviour. A hands-on exercise in combining analytics with visualization for smarter business decisions and to gain a complete view of performance across states, product categories, and quarters. The goal was to track sales trends, customer behaviour, and payment preferences, and to turn raw data into actionable business insights using Excel’s pivot tables, charts, and visualization tools.
 This dashboard provides a clear snapshot of how data analytics can support strategic decisions in marketing, operations, and sales optimization.
 
