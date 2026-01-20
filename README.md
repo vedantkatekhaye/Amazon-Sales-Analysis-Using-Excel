@@ -8,7 +8,7 @@ This dashboard provides a clear snapshot of how data analytics can support strat
 3.	Visualization: Designed pie, bar, and line charts to highlight key metrics.
 4.	Dashboard Design: Combined visuals into a single, interactive layout with consistent color themes and KPIs.
 5.	Performed Detailed Business Analysis.
-6.	Performed So what- Now what Analysis.
+6.	Performed So what - Now what Analysis.
 
 🔑 Key Results
 
