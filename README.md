@@ -7,6 +7,8 @@ This dashboard provides a clear snapshot of how data analytics can support strat
 2.	Analysis: Used pivot tables to summarize sales, quantity, and customer ratings.
 3.	Visualization: Designed pie, bar, and line charts to highlight key metrics.
 4.	Dashboard Design: Combined visuals into a single, interactive layout with consistent color themes and KPIs.
+5.	Performed Detailed Business Analysis.
+6.	Performed So what- Now what Analysis.
 
 🔑 Key Results
 
@@ -22,7 +24,7 @@ This dashboard provides a clear snapshot of how data analytics can support strat
 1.  Despite digital adoption, COD remains dominant, reflecting trust and convenience preferences.
 2.  Quarterly sales increase shows consistent performance and effective retention strategies.
 3.  Balanced 20% share per category ensures a strong, diversified product mix.
-4.  Electronics and Beauty continue to drive both revenue and satisfaction.
+4.  Electronics and Beauty continue to drive both revenue and satisfaction.  
 
 🧠   Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
 
